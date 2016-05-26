@@ -1,5 +1,5 @@
 # **jQuery搭建简单的瀑布流页面** #
-
+![](https://blog.mayuko.cn/wp-content/uploads/2016/05/%E6%97%A0%E6%A0%87%E9%A2%98-3.jpg)
 # 食用方法： #
 
 ## **1.加载js** ##
